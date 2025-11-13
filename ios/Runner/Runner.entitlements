@@ -10,7 +10,7 @@
 	</array>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>$(AppIdentifierPrefix)com.dakarapps.salyprime</string>
+		<string>$(AppIdentifierPrefix)com.dakarapps.meltygo</string>
 	</array>
 </dict>
 </plist>

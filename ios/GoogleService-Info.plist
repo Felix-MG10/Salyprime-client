@@ -2,18 +2,24 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>CLIENT_ID</key>
+	<string>206786849735-9ds1e0onm7cev3fs7dumiardlna0kao8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.206786849735-9ds1e0onm7cev3fs7dumiardlna0kao8</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>206786849735-a7tj7hitu3bjbqum6446clkpsgt76aka.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
-	<string>AIzaSyCtxZGYWJWfhjo6vMpDN2u5bQgXzhrequI</string>
+	<string>AIzaSyANzu5RNz0whW_EHuvzJ0YPxMF5E42v0T0</string>
 	<key>GCM_SENDER_ID</key>
-	<string>464239054135</string>
+	<string>206786849735</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.dakarapps.salyprime</string>
+	<string>com.dakarapps.carrefour221</string>
 	<key>PROJECT_ID</key>
-	<string>salyprime-afcba</string>
+	<string>meltygo-6eacb</string>
 	<key>STORAGE_BUCKET</key>
-	<string>salyprime-afcba.firebasestorage.app</string>
+	<string>meltygo-6eacb.firebasestorage.app</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +31,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:464239054135:ios:e1e5f18624e51b917adeb2</string>
+	<string>1:206786849735:ios:ad2bf703507d8d9e4b07e2</string>
 </dict>
 </plist>

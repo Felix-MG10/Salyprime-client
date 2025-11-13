@@ -341,12 +341,12 @@ class ConfigModel {
       : null;
     primaryColorCode = json['primary_color'];
     secondaryColorCode = json['secondary_color'];
-    maintenanceModeData = json['maintenance_mode'] != null ? MaintenanceMode.fromJson(json['maintenance_mode']) : null;
+    maintenanceModeData = json['maintenance_mode'] != null && json['maintenance_mode'] is Map ? MaintenanceMode.fromJson(json['maintenance_mode']) : null;
 
-    customerLogin = json['customer_login'] != null
+    customerLogin = json['customer_login'] != null && json['customer_login'] is Map
       ? CustomerLogin.fromJson(json['customer_login'])
       : null;
-    customerVerification = json['customer_verification'] != null
+    customerVerification = json['customer_verification'] != null && json['customer_verification'] is Map
       ? CustomerVerification.fromJson(json['customer_verification'])
       : null;
     if(json['refund_day_limit'] != null){

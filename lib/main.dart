@@ -67,14 +67,14 @@ Future<void> main() async {
   if(Firebase.apps.isEmpty) {
     if(Platform.isAndroid) {
       try{
-        ///todo you need to configure that firebase Option with your own firebase to run your ap75-50
+        ///todo you need to configure that firebase Option with your own firebase to run your app
         await Firebase.initializeApp(
-          name: 'SalyPrime',
+          name: 'Meltygo',
           options: const FirebaseOptions(
-            apiKey: "AIzaSyCs9Qap4x4eKUlcdDG2w4-xgfrgQ_6pP7o",
-            projectId: "salyprime-afcba",
-            messagingSenderId: "464239054135",
-            appId: "1:464239054135:android:da90af54e6a016eb7adeb2"
+            apiKey: "AIzaSyAOyZVNUk-mTTl9R-1UQ2fxNexQdEVAmpg",
+            projectId: "meltygo-6eacb",
+            messagingSenderId: "206786849735",
+            appId: "1:206786849735:android:c6aa532e89c901484b07e2"
           ));
       }finally{
         await Firebase.initializeApp();

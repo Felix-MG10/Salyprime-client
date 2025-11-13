@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 
-Color _primaryColor = const Color(0xFF1455AC);
-Color _secondaryColor = const Color(0xFFF58300);
+Color _primaryColor = const Color(0xFF2e5467);
+Color _secondaryColor = const Color(0xFF000000);
 
 
 ThemeData light({Color? primaryColor, Color? secondaryColor})=> ThemeData(
   fontFamily: 'TitilliumWeb',
-  primaryColor: primaryColor ?? const Color(0xFF1455AC),
+  primaryColor: primaryColor ?? const Color(0xFF2e5467),
   brightness: Brightness.light,
   highlightColor: Colors.white,
   hintColor: const Color(0xFFA7A7A7), //Border Color
@@ -32,7 +32,7 @@ ThemeData light({Color? primaryColor, Color? secondaryColor})=> ThemeData(
     onTertiaryContainer: const Color(0xFF04BB7B), // Success Color
     onPrimary: const Color(0xFF7FBBFF),
     surface: const Color(0xFFF4F8FF),
-    onSecondary: secondaryColor ?? const Color(0xFFF88030),
+    onSecondary: secondaryColor ?? const Color(0xFF000000),
     error: const Color(0xFFFF4040), // Danger Color
     onSecondaryContainer: const Color(0xFFF3F9FF),
     outline: const Color(0xff5C8FFC), // Info Color

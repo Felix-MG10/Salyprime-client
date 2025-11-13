@@ -3,12 +3,12 @@ import 'package:flutter_sixvalley_ecommerce/localization/models/language_model.d
 import 'package:flutter_sixvalley_ecommerce/utill/images.dart';
 
 class AppConstants {
-  static const String appName = 'SalyPrime';
+  static const String appName = 'Meltygo';
   static const String slogan = 'E-Commerce Marketplace';
   static const String appVersion = '15.5'; ///Flutter SDK 3.35.4
   static const LocalCachesTypeEnum cachesType = LocalCachesTypeEnum.all;
 
-  static const String baseUrl = 'https://salyprime.com';
+  static const String baseUrl = 'https://abs-brand.com/';
 
   static const String googleServerClientId = '464239054135-bm5182dsgh56rh1rorga4hvctvff76qi.apps.googleusercontent.com';
   static const String userId = 'userId';

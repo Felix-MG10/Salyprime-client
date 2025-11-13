@@ -1,254 +1,42 @@
 {
   "project_info": {
-    "project_number": "889292278719",
-    "firebase_url": "https://dakarapps-51665-default-rtdb.firebaseio.com",
-    "project_id": "dakarapps-51665",
-    "storage_bucket": "dakarapps-51665.firebasestorage.app"
+    "project_number": "206786849735",
+    "project_id": "meltygo-6eacb",
+    "storage_bucket": "meltygo-6eacb.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:889292278719:android:1fd5fc403a3c1d8fd9ef0a",
+        "mobilesdk_app_id": "1:206786849735:android:c6aa532e89c901484b07e2",
         "android_client_info": {
-          "package_name": "com.dakarapps.efood221"
+          "package_name": "com.dakarapps.meltygo"
         }
       },
       "oauth_client": [
         {
-          "client_id": "889292278719-hc647jif8ujep89rcobscoej12mh3kmm.apps.googleusercontent.com",
+          "client_id": "206786849735-a7tj7hitu3bjbqum6446clkpsgt76aka.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.dakarapps.efood221",
-            "certificate_hash": "f0fb4b7f626a3b089a8c1af4ee5db50e30e4447e"
+            "package_name": "com.dakarapps.meltygo",
+            "certificate_hash": "ae49bea81476a2fada244b65b2608bb15bc080ba"
           }
         },
         {
-          "client_id": "889292278719-gq4v4tu2cm5l1s9nqpq9amakefklml59.apps.googleusercontent.com",
+          "client_id": "206786849735-q82ec5vqtpbob6l6g74c9r4j7hr5v38e.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyChwldy-n5A7ncLH1o1sVJwnV_UPsT7ShY"
+          "current_key": "AIzaSyAOyZVNUk-mTTl9R-1UQ2fxNexQdEVAmpg"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "889292278719-gq4v4tu2cm5l1s9nqpq9amakefklml59.apps.googleusercontent.com",
+              "client_id": "206786849735-q82ec5vqtpbob6l6g74c9r4j7hr5v38e.apps.googleusercontent.com",
               "client_type": 3
-            },
-            {
-              "client_id": "889292278719-bui535pnnav6peitf7psv6rb1f7qo54i.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.dakarapps.salyprimeVendor2"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:889292278719:android:18c72f5784968114d9ef0a",
-        "android_client_info": {
-          "package_name": "com.dakarapps.efood_kitchen"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "889292278719-gq4v4tu2cm5l1s9nqpq9amakefklml59.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyChwldy-n5A7ncLH1o1sVJwnV_UPsT7ShY"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "889292278719-gq4v4tu2cm5l1s9nqpq9amakefklml59.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "889292278719-bui535pnnav6peitf7psv6rb1f7qo54i.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.dakarapps.salyprimeVendor2"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:889292278719:android:7ccdede46c5ed1d5d9ef0a",
-        "android_client_info": {
-          "package_name": "com.dakarapps.lyda"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "889292278719-gq4v4tu2cm5l1s9nqpq9amakefklml59.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyChwldy-n5A7ncLH1o1sVJwnV_UPsT7ShY"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "889292278719-gq4v4tu2cm5l1s9nqpq9amakefklml59.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "889292278719-bui535pnnav6peitf7psv6rb1f7qo54i.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.dakarapps.salyprimeVendor2"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:889292278719:android:d02a91e295c4b363d9ef0a",
-        "android_client_info": {
-          "package_name": "com.dakarapps.meltigoapp"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "889292278719-qrp41pvs5val7el9ild4s7d1f1nii2i7.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.dakarapps.meltigoapp",
-            "certificate_hash": "f793f82700f7b67fb5e960e98ec761dcb5c3ef2f"
-          }
-        },
-        {
-          "client_id": "889292278719-gq4v4tu2cm5l1s9nqpq9amakefklml59.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyChwldy-n5A7ncLH1o1sVJwnV_UPsT7ShY"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "889292278719-gq4v4tu2cm5l1s9nqpq9amakefklml59.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "889292278719-bui535pnnav6peitf7psv6rb1f7qo54i.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.dakarapps.salyprimeVendor2"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:889292278719:android:868c8168b0739ff9d9ef0a",
-        "android_client_info": {
-          "package_name": "com.dakarapps.salyprime"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "889292278719-lddautaqveipmpsl0hc0b2cn3lupekkd.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.dakarapps.salyprime",
-            "certificate_hash": "f793f82700f7b67fb5e960e98ec761dcb5c3ef2f"
-          }
-        },
-        {
-          "client_id": "889292278719-gq4v4tu2cm5l1s9nqpq9amakefklml59.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyChwldy-n5A7ncLH1o1sVJwnV_UPsT7ShY"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "889292278719-gq4v4tu2cm5l1s9nqpq9amakefklml59.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "889292278719-bui535pnnav6peitf7psv6rb1f7qo54i.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.dakarapps.salyprimeVendor2"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:889292278719:android:789ec5e745c3f3ebd9ef0a",
-        "android_client_info": {
-          "package_name": "com.dakarapps.salyprimeVendor"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "889292278719-ssd2pfcegmt0uf3nfcrad42i4a1r15if.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.dakarapps.salyprimeVendor",
-            "certificate_hash": "f793f82700f7b67fb5e960e98ec761dcb5c3ef2f"
-          }
-        },
-        {
-          "client_id": "889292278719-gq4v4tu2cm5l1s9nqpq9amakefklml59.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyChwldy-n5A7ncLH1o1sVJwnV_UPsT7ShY"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "889292278719-gq4v4tu2cm5l1s9nqpq9amakefklml59.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "889292278719-bui535pnnav6peitf7psv6rb1f7qo54i.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.dakarapps.salyprimeVendor2"
-              }
             }
           ]
         }

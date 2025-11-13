@@ -1,4 +1,4 @@
-package com.dakarapps.salyprime
+package com.dakarapps.meltygo
 
 import io.flutter.embedding.android.FlutterActivity
 
